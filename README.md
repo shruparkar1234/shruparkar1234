@@ -31,6 +31,8 @@
   
   - 🌱 Passionate about AI, Data Science, and building impactful tech solutions.
 
+<hr>
+  
 ## 📊 Projects:
 
 - 🛣️ Montgomery County Accident Data Analysis – Identified 200+ accident hot spots using clustering techniques.
