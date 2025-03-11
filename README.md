@@ -30,7 +30,7 @@
 <li>🏆 Recognized in the Hall of Fame by Apple, American Express, Shell, and Newfold for security contributions.</li>
     <li>🌟 Committed to making impactful contributions in cybersecurity through innovation and dedication.</li>
     <li> 🌱 Passionate about continuous learning and staying updated with cybersecurity trends and technologies.</li>
-    <li>📫 How to reach me: <a href="mailto:mailto:shrushtiparkar@gmail.com">aaryanrlondhe@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:mailto:shrushtiparkar@gmail.com"></a>shrushtiparkar@gmail.com</li>
   </ul>
 
   <hr>
