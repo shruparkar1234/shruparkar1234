@@ -23,7 +23,21 @@
 
 
   <h3>🧠 &nbsp;About Me :</h3>
+💼 AI and ML Developer Intern at Edureka, Bangalore, India (Feb 2023 - Apr 2023) – Improved model performance by 15% through advanced machine learning algorithms and NLP techniques.
 
+💻 Software Engineer Intern at Ureka, Dubai, UAE (Aug 2022 - Oct 2022) – Contributed to 20% company growth by developing a Student Management System with Java and MySQL.
+
+🎓 Pursuing a Bachelor’s in Computer Science (Data Science concentration) at California State University, Monterey Bay – Graduating May 2025.
+
+📊 Projects:
+
+🛣️ Montgomery County Accident Data Analysis – Identified 200+ accident hot spots using clustering techniques.
+🏠 Shelter Animals Data Analysis – Predicted adoption outcomes with statistical models.
+📺 Netflix Clone – Built a full-stack responsive platform with Firebase authentication.
+🍽️ Zomato Clone – Developed a restaurant search & payment system with Razorpay integration.
+🚀 Skills: Python, Java, JavaScript, React JS, SQL, MongoDB, NLP, Data Preprocessing, Machine Learning, EDA.
+
+🌱 Passionate about AI, Data Science, and building impactful tech solutions.
   <ul>
    <li> 💼 Currently a SOC Analyst at University of South Carolina, Aiken, focusing on cybersecurity operations.</li>
 <li>🎓 Pursuing a Bachelor’s in Computer Science with a Cybersecurity concentration.</li>
