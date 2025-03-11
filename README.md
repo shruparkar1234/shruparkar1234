@@ -24,7 +24,7 @@
 
  <h3> 🧠 &nbsp;About Me :</h3>
  
-  - 💻 AI and ML Developer Intern at Edureka, Bangalore, India (Feb 2023 - Apr 2023) – Improved model performance by 15% through advanced machine learning algorithms and NLP techniques.
+  - 💼 AI and ML Developer Intern at Edureka, Bangalore, India (Feb 2023 - Apr 2023) – Improved model performance by 15% through advanced machine learning algorithms and NLP techniques.
   
   - 💻 Software Engineer Intern at Ureka, Dubai, UAE (Aug 2022 - Oct 2022) – Contributed to 20% company growth by developing a Student Management System with Java and MySQL.
   
