@@ -40,7 +40,6 @@
 - 🏠 Shelter Animals Data Analysis – Predicted adoption outcomes with statistical models.
 - 📺 Netflix Clone – Built a full-stack responsive platform with Firebase authentication.
 - 🍽️ Zomato Clone – Developed a restaurant search & payment system with Razorpay integration.
-- 🚀 Skills: Python, Java, JavaScript, React JS, SQL, MongoDB, NLP, Data Preprocessing, Machine Learning, EDA.
 
   <hr>
 
