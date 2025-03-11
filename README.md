@@ -43,7 +43,7 @@
 
   <hr>
 
-  <h3>🛠 &nbsp;Languages and Tools :</h3>
+<h3>🛠 &nbsp;Languages and Tools :</h3>
   <p>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="110" height="110">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="110" height="110">&nbsp;
